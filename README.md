@@ -17,7 +17,7 @@ Replace the following env variables:
   - `composer install`
   - `php artisan key:generate`
   - `php artisan:migrate`
-  - `php artisan passport:keys`
+  - `php artisan passport:install`
 
 
 - Now you will need to put the value of the following env variables:
